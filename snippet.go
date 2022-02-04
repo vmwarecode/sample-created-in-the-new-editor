@@ -1,0 +1,1 @@
+this is the snippet in the new editor
